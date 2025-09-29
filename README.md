@@ -7,3 +7,9 @@ voice editing
 screen capturing
 l2d model posing
 long term memory
+
+
+
+current progress:
+
+llm installing, in venv testing
